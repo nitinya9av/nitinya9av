@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [![microsoft/farmvibes-ai](https://github.com/microsoft/farmvibes-ai)]<br>- 🌱 I’m currently learning c <br>- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on [microsoft/farmvibes-ai](https://github.com/microsoft/farmvibes-ai) <br>- 🌱 I’m currently learning c <br>- 😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
