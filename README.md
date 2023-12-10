@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [microsoft/farmvibes-ai](https://github.com/microsoft/farmvibes-ai)
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning [C](https://github.com/code50/58939117)
 - 😄 Pronouns: He/Him
 
 
