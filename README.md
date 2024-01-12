@@ -13,7 +13,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nitinya9av&theme=radical&hide_border=false&include_all_commits=true&card_width=550&count_private=true&rank_icon=github)<br/>
-![](https://streak-stats.demolab.com?user=nitinya9av&theme=redical&hide_border=true&card_width=550)<br/>
+<img  src="https://streak-stats.demolab.com?user=NebulaTris&theme=aura&hide_border=true&card_width=550"/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinya9av&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
