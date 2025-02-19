@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently contributing on [microsoft/farmvibes-ai](https://github.com/microsoft/farmvibes-ai)
-- 🌱 I’m currently learning [C](https://github.com/code50/58939117)
-- 😄 Pronouns: He/Him
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nitinya9av&theme=radical&hide_border=true&include_all_commits=true&card_width=550&count_private=true&rank_icon=github)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=nitinya9av&theme=radical&hide_border=true&card_width=550)]()
